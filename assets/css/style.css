@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/startgameimg.jpg"); 
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header h1 {
+    font-size: 70px;
+    color: white;
+    margin: 100px 0 0 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-weight: bold; */
+}
+#info-box {
+    background-color: #fff;
+    height: 300px;
+    width: 300px;
+    
+}
